@@ -12,7 +12,7 @@ Forest reads channel statistics, picks one of 100 evaluated mitigation circuits,
 error by at least 99.6% against a bare qubit in all six simulated test environments.
 [Paper](https://www.ccsc.org/journal/) · [Project page](https://adaptive-machine-learning-bb84.github.io/adaptive-machine-learning/)
 
-**[Quantum-inspired portfolio optimization](https://github.com/Charlesganu2004/quantum-portfolio-optimization)** · Python, Qiskit · *August 2026*
+**[Quantum portfolio optimization](https://github.com/Charlesganu2004/quantum-portfolio-optimization)** · Python, Qiskit · *August 2026*
 Compares mean-variance, heuristic, QUBO annealing and simulated QAOA optimizers against a
 brute-force optimum, with a deterministic risk gate in front of a paper-trading broker.
 
