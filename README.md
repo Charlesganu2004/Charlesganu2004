@@ -62,6 +62,8 @@ Adaptive C++ and Python practice that places you, then orders problems by what i
 you most. [Live site](https://charlesganu2004.github.io/Coding-Practice-Website/)
 
 **[Unscroll](https://github.com/Charlesganu2004/Whitman-Hackathon)** · TypeScript · Whitman College hackathon · *October 2026*
+**Got Third Place for the CSCC Whitman Hackathon with this project joining with 10 hours left**
+**                                                                                           **
 Trades your next scroll for a short voice interview with an AI interviewer.
 [Launch film](https://youtu.be/fKccxDHB6GI)
 
